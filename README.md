@@ -1,33 +1,37 @@
-## 익산공장 디지털 아싸들의 모임
+## 익산공장 디지털 아싸들의 모임!!
+##### Day10
 
-##### 파이썬 기본 코드 저장소입니다.
+python_basic_파이썬소개
 
-Day01_python_basic_파이썬소개
+python_basic_변수타입
 
-Day02_python_basic_변수타입
+python_basic_연산자_흐름제어
 
-Day03_python_basic_연산자_흐름제어
+python_basic_함수
 
-Day04_python_basic_함수
+클래스1
 
-Day05_클래스1
+클래스2
 
-Day06_클래스2
+파일입출력_예외처리
 
-106_python_basic_클래스2_hey_210207
+numpy_배열과벡터
 
-107_python_basic_파일입출력_예외처리_hey_210207
+numpy_tutorial
 
-연습101_python_basic_hey_210207
-
-201_numpy_배열과벡터_hey_210213
-
-202_numpy_tutorial_hey_210213
+pandas
 
 # 실습
+##### Day06
 
-참고301_Classification_hey_201220
+구구단, 복권번호
 
-참고302_Clustering_PCA_hey_201220
+Classification
 
-참고303_naver_music_hey_201220
+Clustering_PCA
+
+naver_music_Crawling
+
+RPA
+
+Snake 게임
