@@ -1,7 +1,7 @@
 # 익산공장 디지털 아싸들의 모임!!
 
 ## 기초 문법
-##### Day10
+##### Module_01~10
 
 python_basic_파이썬소개
 
@@ -24,7 +24,7 @@ numpy_tutorial
 pandas
 
 ## 실습
-##### Day06
+##### Module_11~20
 
 구구단, 복권번호
 
