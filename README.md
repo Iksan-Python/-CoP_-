@@ -1,7 +1,7 @@
 # 익산공장 디지털 아싸들의 모임!!
 
 ## 기초 문법
-##### Module_01~10
+> Module_01~10
 
 python_basic_파이썬소개
 
@@ -24,7 +24,7 @@ numpy_tutorial
 pandas
 
 ## 실습
-##### Module_11~15
+> Module_11~15
 
 Classification
 
@@ -35,7 +35,7 @@ naver_music_Crawling
 RPA
 
 ## 게임
-##### Module_15~20
+> Module_15~20
 
 구구단
 
