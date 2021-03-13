@@ -1,6 +1,6 @@
 # 익산공장 디지털 아싸들의 모임!!
 
-## 기초 문법
+## 기초 문법 (Jupyter NB)
 > Module_01~10
 
 python_basic_파이썬소개
@@ -23,7 +23,7 @@ numpy_tutorial
 
 pandas
 
-## 실습
+## 실습 (Spyder, Pycharm)
 > Module_11~15
 
 Classification
@@ -34,7 +34,7 @@ naver_music_Crawling
 
 RPA
 
-## 게임
+## 게임 (Spyder, Pycharm)
 > Module_16~20
 
 구구단
