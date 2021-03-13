@@ -24,9 +24,7 @@ numpy_tutorial
 pandas
 
 ## 실습
-##### Module_11~20
-
-구구단, 복권번호
+##### Module_11~15
 
 Classification
 
@@ -35,5 +33,14 @@ Clustering_PCA
 naver_music_Crawling
 
 RPA
+
+## 게임
+##### Module_15~20
+
+구구단
+
+복권번호
+
+야구게임
 
 Snake 게임
