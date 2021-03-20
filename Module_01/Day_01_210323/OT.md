@@ -9,6 +9,9 @@ https://www.notion.so/Jupyter-Notebook-04d40d692b67450ea4504fee282d25a2
 ## JupyterNB 테마 변경 (다크모드 추천)
 https://www.notion.so/Jupyter-Notebook-2c5d4298788c49979986b2de667b2659
 
+## NBextensions
+https://www.notion.so/Nbextensions-d7293b11f6654d81a2485530e3f6bc1e
+
 ----
 
 # 프로그래밍
