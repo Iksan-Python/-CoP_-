@@ -4,6 +4,8 @@
 
 ## 기초 문법 (Jupyter NB)
 > Module_01~10
+> 프로그램밍 일반
+> 파이썬 이론 및 실습
 
 python_basic_파이썬소개
 
@@ -29,6 +31,8 @@ pandas
 
 ## 실습 (Spyder, Pycharm)
 > Module_11~15
+> 파이썬 패키지 활용
+> numpy
 
 Classification
 
@@ -42,6 +46,8 @@ RPA
 
 ## 게임 (Spyder, Pycharm)
 > Module_16~20
+> 파이썬 패키지를 이용한 데이터 분석, 머신러닝 개념 설명 및 실습
+> pandas, matplotlib, scikit-learn, keras, konlpy, etc
 
 구구단
 
