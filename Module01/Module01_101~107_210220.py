@@ -12,8 +12,6 @@
     - Python 2의 경우 2020년까지만 Maintenance가 이루어질 예정
 
 ### 1.2 파이썬 비교
-- 파이썬 vs 펄  
-- 파이썬 vs 자바  
 - 파이썬 vs R  
 
 ### 1.3 프로그램 언어 일반
@@ -188,111 +186,8 @@ c = 0o555
 # 16진수
 d = 0x16d
 
-
-
 ### 1.4 실수(float) 타입
 
 fa = 3.14
 
 fb = 3.1415e2
-
-
-
-### 1.5 불린(boolean) 타입
-
-ba = True
-
-bb = False
-
-ba and bb
-
-
-
-### 1.6 문자열(str) 타입
-
-# 문자열 생성
-sa = 'Hello World'
-sb = 'one way of writing a string'
-
-sc = "another way"
-
-sd = '''
-This is a longer string that
-spans multiple lines
-'''
-
-se = '''
-This is a longer string that
-spnas multiple lines
-'''
-
-print(se)
-
-print(sd)
-
-# 문자열 카운트
-
-# 문자열, string
-
-sd.count('\n')
-
-se.count('\n')
-
-se.count('\n')
-
-a = 'this is a string!!'
-# a[10] = 'f'
-
-b = a.replace('string', 'longer string')
-b
-
-b = a.replace('string', 'longer string')
-
-# 문자열 수정
-a = 'this is a string'
-a[10] = 'f'    # 문자열 수정 불가
-b = a.replace('string', 'longer string')
-b
-
-# type 변경
-
-# float : 소숫점을 포함한 실수
-# float 을 string 으로 type 변경
-
-a = 5.6
-s = str(a)
-print(s)
-
-# type 변경
-
-a = 5.6
-s = str(a)
-s
-
-- print(s) 와 s 는 출력결과가 다름
-
-# Escape 문자
-# \n \t \\ \' \" etc
-s = '12\\34'
-print(s)
-
-se = r'this\has\no\special\characters'
-print(se)
-
-s = '12//34'
-print(s)
-
-se = r'this\has\no\special\characters'
-print(se)
-
-s = '12//34'
-s
-
-# 문자열 연산
-a = 'this is the first half '
-b = 'and this is the second half'
-a + b
-
-# 문자열 연산
-a = '='
-a * 50
