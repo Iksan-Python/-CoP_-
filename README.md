@@ -47,3 +47,48 @@ Moving Brick 게임
 
 Snake 게임
 
+
+```r
+예문
+
+This is an H1
+=============
+
+This is an H2
+-------------
+
+# ESC
+## ESC
+### ESC
+#### ESC
+##### ESC
+###### ESC
+
+> This is a blockquote.
+
+1. 첫번째
+2. 두번째
+3. 세번째
+
+* 빨강
+  * 녹색
+    * 파랑
+
+***
+* * *
+*****
+- - -
+
+Link: [Google](https://google.com)
+
+*italics*
+**bold**
+`backticks`
+~~cancelline~~
+
+![text](/path/to/image.jpg)
+
+$wage = \beta_0 + \beta_1*educ + \beta_2*ex + \beta_3*age + \epsilon$
+$b=(X^TX)^{-1}X^TY$
+$\widehat{cov(b)}$
+```
