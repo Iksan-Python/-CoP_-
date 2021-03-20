@@ -48,7 +48,6 @@ Moving Brick 게임
 Snake 게임
 
 
-```r
 예문
 
 This is an H1
@@ -91,4 +90,3 @@ Link: [Google](https://google.com)
 $wage = \beta_0 + \beta_1*educ + \beta_2*ex + \beta_3*age + \epsilon$
 $b=(X^TX)^{-1}X^TY$
 $\widehat{cov(b)}$
-```
