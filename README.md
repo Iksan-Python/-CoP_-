@@ -27,7 +27,7 @@ pandas
 
 ***
 
-## 실습 (Spyder, Pycharm)
+## 실습 (Spyder)
 > Module_11~15 / 파이썬 패키지 활용, Numpy 外
 
 Classification
@@ -40,7 +40,7 @@ RPA
 
 ***
 
-## 게임 (Spyder, Pycharm)
+## 게임 (Pycharm)
 > Module_16~20 / 파이썬 패키지를 이용한 데이터 분석, 머신러닝 개념 설명 및 실습, Pandas, Matplotlib, Scikit-learn, Keras, Konlpy, etc
 
 구구단
