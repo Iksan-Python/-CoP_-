@@ -24,18 +24,16 @@ https://www.notion.so/Nbextensions-d7293b11f6654d81a2485530e3f6bc1e
 - 게임 플레이어 > 개발자
 
 # 웹 실행 사이트 
-> feat.아마추어 코더들의 놀이터
 https://repl.it/login?goto=%2F~
+> feat.아마추어 코더들의 놀이터
 
 # 파이썬 개발자 필수
 https://pypi.org/
 - 딘싸 자체 패키지?
-- 법인 dxlss 패키지
-- 안득호P, 백인엽P, 전성범P 외
+- 법인 dxlss 패키지 : 안득호P, 백인엽P, 전성범P 외
 
 # Notepad++
 - 플러그인
-- .bat(배치 파일) 간단한 실습
-- md
+- .bat(배치 파일) 간단한 실습 : md
 
 
