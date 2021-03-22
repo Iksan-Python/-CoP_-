@@ -19,14 +19,19 @@ https://www.notion.so/Nbextensions-d7293b11f6654d81a2485530e3f6bc1e
 # 복권 당첨번호 추천 프로그램
   > feat.미용실 대기 중 폰으로 작성
 
-# 웹 실행 사이트
+# 프로그래밍을 통한 시야의 확장
+  > 주식 투자자 > Analyzer (분석 보고서 RPA / 메일링)
+  > 게임 플레이어 > 개발자
+
+# 웹 실행 사이트 (feat.놀이터)
 https://repl.it/login?goto=%2F~
 
-# 파이썬 개발자
+# 파이썬 개발자 필수
 https://pypi.org/
   > 딘싸 자체 패키지? 
 
 # Notepad++
 > 플러그인
 > .bat(배치 파일) 간단한 실습 (md)
-> 
+
+
