@@ -3,7 +3,8 @@
 ![928f90bcd221f78a30f18541a5ca2e7f](https://user-images.githubusercontent.com/52515917/111857507-4a8f0d00-8975-11eb-93d9-c896eb19a561.jpg)
 
 ## 기초 문법 (Jupyter NB)
-> Module_01 / 프로그램밍 일반, 파이썬 이론 및 실습
+> Module_01
+* 프로그램밍 일반, 파이썬 이론 및 실습
 
 python_basic_파이썬소개
 
@@ -28,7 +29,11 @@ pandas
 ***
 
 ## 실습 (Spyder)
-> Module_02 / 파이썬 패키지 활용, Numpy 外
+> Module_02 
+
+* 파이썬 패키지를 이용한 데이터 분석,
+* 머신러닝 개념 설명 및 실습,
+* Numpy, Pandas, Matplotlib, Scikit-learn, Keras, Konlpy 外
 
 Classification
 
@@ -41,7 +46,9 @@ RPA
 ***
 
 ## 게임 (Pycharm)
-> Module_03 / 파이썬 패키지를 이용한 데이터 분석, 머신러닝 개념 설명 및 실습, Pandas, Matplotlib, Scikit-learn, Keras, Konlpy, etc
+> Module_03 
+
+* 파이썬 패키지 활용한 게임 개발
 
 구구단
 
