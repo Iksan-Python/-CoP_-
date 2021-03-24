@@ -32,9 +32,7 @@
 ## 실습 (Spyder)
 > Module_02 
 
-파이썬 패키지를 이용한 데이터 분석,
-머신러닝 개념 설명 및 실습,
-Numpy, Pandas, Matplotlib, Scikit-learn, Keras, Konlpy 外
+파이썬 패키지를 이용한 데이터 분석
 
 * Classification
 
@@ -46,10 +44,11 @@ Numpy, Pandas, Matplotlib, Scikit-learn, Keras, Konlpy 外
 
 ***
 
-## 게임 (Pycharm)
+## 게임 개발 (Pycharm)
 > Module_03 
 
-파이썬 패키지 활용한 게임 개발
+머신러닝 개념 설명 및 실습,
+Numpy, Pandas, Matplotlib, Scikit-learn, Keras, Konlpy 外
 
 * 구구단
  
