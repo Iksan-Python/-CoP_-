@@ -18,7 +18,7 @@ https://www.notion.so/Nbextensions-d7293b11f6654d81a2485530e3f6bc1e
 
 # 복권 당첨번호 추천 프로그램
   > feat.미용실 대기 중 폰으로 작성
-- 외부 업체의 못 믿을 확률 http://naver.me/G2UxAXMe
+- 리니지M에 40억 쓴 이용자가 엔씨 주차장을 차로 막은 사연 http://naver.me/G2UxAXMe
 
 # 프로그래밍을 통한 시야의 확장
 - 주식 투자자 > Analyzer (분석 보고서 RPA / 메일링)
