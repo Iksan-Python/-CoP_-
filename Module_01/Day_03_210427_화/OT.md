@@ -42,6 +42,6 @@ https://pypi.org/
 # Notepad++
 - 써드 파티 플러그인으로 기능 확장 가능 (html 병합 등)
 - .bat(배치 파일) 간단한 실습 : md
-- 개발된 프로그램은 .exe (용량 100kb 미만) 로 간단히 
-- https://github.com/nanpuhaha/DarkNamer
+- 개발된 프로그램은 .exe (용량 100kb 미만) 로 간단히 실행 가능
+  https://github.com/nanpuhaha/DarkNamer
 
