@@ -45,3 +45,7 @@ https://pypi.org/
 - 개발된 프로그램은 .exe (용량 100kb 미만) 로 간단히 실행 가능
   https://github.com/nanpuhaha/DarkNamer
 
+# 결과물은 실행파일(.exe)로 변환
+- 모든 PC 에 파이썬 설치 불가
+- 스크립트(.py)는 가벼운 실행 파일로 변환
+
