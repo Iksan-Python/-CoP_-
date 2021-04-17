@@ -39,8 +39,11 @@ https://pypi.org/
 - 영작문과 비슷함. 어려운 문장 하나 암기한 것과 에세이 잘 쓰는 것은 다른 얘기
 - AI 가 코드를 짜주더라도 프로젝트 기획은 인간이 해야 함
 - 원노트 코드블럭 입력 도구 (Addin)
+  https://github.com/elvirbrk/NoteHighlight2016
 
 # Notepad++
+- 다운로드 주소 : 
+  https://notepad-plus-plus.org/
 - 써드 파티 플러그인으로 기능 확장 가능 (html 병합 등)
 - .bat(배치 파일) 간단한 실습 : md
 - 개발된 프로그램은 .exe (용량 100kb 미만) 로 간단히 실행 가능
