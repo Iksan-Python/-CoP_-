@@ -21,8 +21,9 @@ https://www.notion.so/Nbextensions-d7293b11f6654d81a2485530e3f6bc1e
 - 리니지M에 40억 쓴 이용자가 엔씨 주차장을 차로 막은 사연 http://naver.me/G2UxAXMe
 
 # 프로그래밍을 통한 시야의 확장
-- 주식 투자자 > Analyzer (분석 보고서 RPA / 메일링)
 - 게임 플레이어 > 개발자
+- 주식 투자자 > Analyzer (분석 보고서 RPA / 메일링)
+- 파이썬 (Python)으로 시스템 트레이딩 구현 가능
 
 # 웹 실행 사이트 
 https://repl.it/login?goto=%2F~
