@@ -1,5 +1,8 @@
 # 파이썬 기초
 
+## Python
+https://m.blog.naver.com/swedu_et/222317823685
+
 ## Python 설치
 https://www.notion.so/Python-4d9cf3337b984631a58c3f0e6a8ec46a
 
