@@ -2,14 +2,11 @@
 
 # 1. 1 이상, 100 이하의 수 중에서 4의 배수 혹은 9의 배수의 총합을 구하시오.
 
-
 # 2. 구구단의 7단과 8단을 출력하시오.
- 
 
 # 3. 다음의 문자를 모스부호로 암호화 하시오.
 
 # 문자 : HE GETS UP LATE
-
 # 모스부호
 dic = {
     '.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.':'E', '..-.': 'F',
@@ -19,20 +16,12 @@ dic = {
     '-.--': 'Y', '--..': 'Z'
 }
  
-# end
-
-
-
-
 ### ♧♣ Quiz 02
 
 # 1. 다음 배열의 3의 배수 (0 포함)를 모두 300으로 치환하시오.
 
-
-
 # 2. 다음 DataFrame의 각 행의 최대값과 평균의 차이, 각 열의 최대값과 평균의 차이를 각각 구하시오.
 # - DataFrame의 apply() 함수를 이용하시오.
-
 
 # 3. 다음 데이터 (ldata)를 아래와 같은 형태의 DataFrame으로 변환하시오.
 # - 행: date
@@ -40,10 +29,6 @@ dic = {
 # - 값: value
 
 data = pd.read_csv("https://raw.githubusercontent.com/heuiy/data/main/AI_Camp/macrodata.csv")
-
-# end
-
-
 
 ### ♧♣ Quiz 03
 
@@ -55,15 +40,11 @@ import pandas as pd
 tips = pd.read_csv("https://raw.githubusercontent.com/heuiy/data/main/AI_Camp/tips.csv")
 tips
 
-
-
 # 2. 어느 device_id에 가장 많은 'WM_STATE' Log가 기록되어 있는지 Log수가 많은 순서대로 표시하시오.
 
 import pandas as pd
 
 df = pd.read_csv("https://raw.githubusercontent.com/heuiy/data/main/AI_Camp/washing_machine.csv")
-
-
 
 # 3. 다음 데이터의 로그 생성 횟수를 create_dt_utc(4시간 단위)를 기준으로 bar chart를 그리시오.
 # - Grouper(), groupby() 함수를 이용하시오
@@ -74,11 +55,6 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 df = pd.read_csv("https://raw.githubusercontent.com/heuiy/data/main/AI_Camp/washing_machine.csv")
 df
-
-# end
-
-
-
 
 ### ♧♣ Quiz 04
 
@@ -95,8 +71,6 @@ df
 # - crosstab() 함수를 이용하시오.
 
 # 4. df (DataFrame)의 Age에 대한 결측치를 Sex(male, female), Pclass(1,2,3)로 구분하여 각 평균치로 채우시오.
-
-# end
 
 ### ♧♣ Quiz 05
 
@@ -136,5 +110,3 @@ df
 
 # 10. 예측한 결과의 Confusion Matrix를 구하시오.
 # - crosstab() 함수를 이용하시오.
-
-# end
